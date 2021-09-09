@@ -1,2 +1,2 @@
 # Teste_GIT
- Curso de GIT
+ Primeiro repositório do curso de GIT
